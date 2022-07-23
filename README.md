@@ -1,6 +1,6 @@
 # -LOAN-ELIGIBILITY-PREDICTION-USING-MACHINE-LEARNING-
 
-![Certificate](/images/logo.png)
+![Certificate](https://github.com/2015pushkar/-LOAN-ELIGIBILITY-PREDICTION-USING-MACHINE-LEARNING-/blob/main/Image%20certificate.pdf)
 
 >The accessibility and availability of huge amounts of data will be
 able to provide us useful knowledge if certain data mining techniques
