@@ -1,5 +1,7 @@
 # -LOAN-ELIGIBILITY-PREDICTION-USING-MACHINE-LEARNING-
 
+![Certificate](/images/logo.png)
+
 >The accessibility and availability of huge amounts of data will be
 able to provide us useful knowledge if certain data mining techniques
 are applied on it. The main goal is to determine new patterns and then
